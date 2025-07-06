@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Backstreet Boys",
+    "file": "backstreet_boys.mp3",
+    "phonetic": "bak-street boyz",
+    "tip": "American boy band, big in the late 90s.",
+    "image": "../img/backstreet_boys.jpg",
+    "answer": "Backstreet Boys",
+    "fact": "Their 1999 album 'Millennium' sold over 30 million copies worldwide."
+  },
+  {
+    "title": "Spice Girls",
+    "file": "spice_girls.mp3",
+    "phonetic": "spys gurlz",
+    "tip": "Girl power from the UK!",
+    "image": "../img/spice_girls.jpg",
+    "answer": "Spice Girls",
+    "fact": "Their debut single 'Wannabe' topped the charts in 37 countries."
+  },
+  {
+    "title": "Destiny's Child",
+    "file": "destinys_child.mp3",
+    "phonetic": "des-tin-eez chyld",
+    "tip": "Beyoncé’s band before going solo.",
+    "image": "../img/destinys_child.jpg",
+    "answer": "Destiny's Child",
+    "fact": "They won three Grammy Awards during their career."
+  },
+  {
+    "title": "Maroon Five",
+    "file": "maroon_five.mp3",
+    "phonetic": "muh-roon fiv",
+    "tip": "Pop rock band fronted by Adam Levine.",
+    "image": "../img/maroon_five.jpg",
+    "answer": "Maroon Five",
+    "fact": "Their hit 'Moves Like Jagger' features Christina Aguilera."
+  },
+  {
+    "title": "Girls Aloud",
+    "file": "girls_aloud.mp3",
+    "phonetic": "gurlz uh-lowd",
+    "tip": "British girl group formed on TV.",
+    "image": "../img/girls_aloud.jpg",
+    "answer": "Girls Aloud",
+    "fact": "They hold the record for most consecutive top ten UK singles for a girl group."
+  },
+  {
+    "title": "One Direction",
+    "file": "one_direction.mp3",
+    "phonetic": "wun duh-rek-shun",
+    "tip": "Boy band formed on The X Factor.",
+    "image": "../img/one_direction.jpg",
+    "answer": "One Direction",
+    "fact": "They were the first UK group to debut at No. 1 on the US Billboard 200."
+  },
+  {
+    "title": "Little Mix",
+    "file": "little_mix.mp3",
+    "phonetic": "lit-ul miks",
+    "tip": "First group to win The X Factor UK.",
+    "image": "../img/little_mix.jpg",
+    "answer": "Little Mix",
+    "fact": "They won 'Best British Group' at the 2021 BRIT Awards."
+  },
+  {
+    "title": "Imagine Dragons",
+    "file": "imagine_dragons.mp3",
+    "phonetic": "ih-ma-jin drag-unz",
+    "tip": "US band known for epic rock anthems.",
+    "image": "../img/imagine_dragons.jpg",
+    "answer": "Imagine Dragons",
+    "fact": "Their hit 'Radioactive' spent over a year on the Billboard Hot 100."
+  },
+  {
+    "title": "Red Hot Chili Peppers",
+    "file": "red_hot_chili_peppers.mp3",
+    "phonetic": "red hot chil-ee pep-urz",
+    "tip": "Funky rock band from California.",
+    "image": "../img/red_hot_chili_peppers.jpg",
+    "answer": "Red Hot Chili Peppers",
+    "fact": "They’ve won six Grammy Awards and were inducted into the Rock & Roll Hall of Fame."
+  },
+  {
+    "title": "Arctic Monkeys",
+    "file": "arctic_monkeys.mp3",
+    "phonetic": "ark-tik mung-keez",
+    "tip": "British indie rock band from Sheffield.",
+    "image": "../img/arctic_monkeys.jpg",
+    "answer": "Arctic Monkeys",
+    "fact": "Their debut album was the fastest-selling in UK chart history at the time."
+  }
+]

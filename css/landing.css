@@ -1,0 +1,58 @@
+/* landing.css - custom styles for index.html */
+
+.nav {
+  margin: 1rem 0;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 200px;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: #112656;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.section-links {
+  text-align: left;
+  margin-top: 2rem;
+}
+
+.section-links ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.section-links li {
+  padding: 0.5rem 0;
+}
+
+.section-links a {
+  color: #FD9803;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.section-links a:hover {
+  text-decoration: underline;
+}
